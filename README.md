@@ -1,4 +1,4 @@
-<h2> Hi 👋, I'm Johnson Chen</h1>
+<h2> Hi 👋, I'm Johnson Chen</h2>
 <h3> I graduated from the Department of Information Management at National Yunlin University of Science and Technology. I have previously interned in data science and artificial intelligence applications, and I aspire to continue progressing toward my goals in the future.</h3>
 
 <h3 align="left">Connect with me:</h3>
