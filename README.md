@@ -1,15 +1,51 @@
 <h2>
-  Hi 👋, I'm Johnson Chen
+  👋 Hi, I'm Yin-Hong Chen
 </h2>
 
-<h3> 
-  I graduated from the Department of Information Management at National Yunlin University of Science and Technology. I have previously interned in data science and artificial intelligence applications, and I aspire to continue progressing toward my goals in the future.
-</h3>
+I graduated from Yunlin University of Science and Technology with a degree in Information Management.  
+Currently an AI Engineer / Data Science Intern at Taiwan Economic Journal (TEJ), passionate about AI, NLP, and Data Science.  
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+<h2>
+  💪 Strengths
+</h2>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+- Machine Learning
+- Large Language Models (LLM) / RAG / FineTune 
+- Web Scraping (Selenium / BeautifulSoup)  
+- Data Engineering (ETL, Pandas, CKIP)  
+- Quantitative Finance (TEJ API, Backtesting)  
 
+<h2>
+  🔍 Work Experience
+</h2>
+
+- **AI Engineer Intern** @ [Taiwan Economic Journal (TEJ)](https://www.tejwin.com/en/)   
+
+<h2>⭐️ My GitHub Stats</h2>
+<div align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=to097070&show_icons=true&line_height=27&count_private=true&theme=radical" alt="Yin-Hong's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=to097070&hide=java,html,tex&theme=radical&langs_count=3" />
+</div>
+
+<h2>
+  📫 How to reach me
+</h2>
+
+<div align="center">
+
+| Icon                                                                              | Link                                                     |
+| --------------------------------------------------------------------------------- | -------------------------------------------------------- |
+| [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev)| [LinkedIn](https://www.linkedin.com/in/johnson-yinhong-chen-93bb78299/?locale=en_US) |
+| [![My Skills](https://skillicons.dev/icons?i=gmail)](https://skillicons.dev)| to097070@gmail.com |
+
+</div>
+
+<h2>
+  🛠️ Languages & Tools
+</h2>
+
+<div align="center">
+  
+| My Tools                                                                                                                                                                                                                  |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| [![My Skills](https://skillicons.dev/icons?i=py,java,tensorflow,pytorch,flask,selenium,docker,git,gitlab,mysql,postgres,azure,gcp,html,css,js&perline=8)](https://skillicons.dev) |
