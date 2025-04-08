@@ -31,7 +31,7 @@ Currently an AI Engineer / Data Science Intern at Taiwan Economic Journal (TEJ),
   📫 How to reach me
 </h2>
 
-<div align="center">
+<div align="left">
 
 | Icon                                                                              | Link                                                     |
 | --------------------------------------------------------------------------------- | -------------------------------------------------------- |
@@ -44,7 +44,7 @@ Currently an AI Engineer / Data Science Intern at Taiwan Economic Journal (TEJ),
   🛠️ Languages & Tools
 </h2>
 
-<div align="center">
+<div align="left">
   
 | My Tools                                                                                                                                                                                                                  |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
