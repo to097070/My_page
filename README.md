@@ -22,7 +22,7 @@ Currently an AI Engineer / Data Science Intern at Taiwan Economic Journal (TEJ),
 - **AI Engineer Intern** @ [Taiwan Economic Journal (TEJ)](https://www.tejwin.com/en/)   
 
 <h2>⭐️ My GitHub Stats</h2>
-<div align="center">
+<div align="left">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=to097070&show_icons=true&line_height=27&count_private=true&theme=radical" alt="Yin-Hong's GitHub Stats" />
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=to097070&hide=java,html,tex&theme=radical&langs_count=3" />
 </div>
